@@ -1,0 +1,10 @@
+name: dl
+channels:
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - python=3.12.12
+  - jupyter
+  - notebook
+  - opencv
+prefix: /home/ray/miniconda3/envs/dl
